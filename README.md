@@ -12,7 +12,9 @@ Because it's funny. We did this long ago in E2 with a friend, now I'm updating t
 
 1. Get the code 
 
-	`loader.lua` is a loader, to always use the latest version
+	`loader.lua` is a loader with the latest version
+
+	`latest.lua` is a loader for the current version (used by the loader)
 
 	`{Major}.{Minor}.{Patch}.lua` is a specific version
 
