@@ -16,7 +16,7 @@ Because it's funny. We did this long ago in E2 with a friend, now I'm updating t
 
 	`loader.lua` is a loader with the latest version
 
-	`latest.lua` is a loader for the current version (used by the loader)
+	`latest.lua` contains the latest stable release
 
 	`{Major}.{Minor}.{Patch}.lua` is a specific version
 
