@@ -10,6 +10,8 @@ Because it's funny. We did this long ago in E2 with a friend, now I'm updating t
 
 ## How to use it ?
 
+### Method 1: SF
+
 1. Get the code 
 
 	`loader.lua` is a loader with the latest version
@@ -37,3 +39,11 @@ Because it's funny. We did this long ago in E2 with a friend, now I'm updating t
 	4.5 Left-click on the option
 	4.6 Left-click on the chip to link it
 	*Do this for all your lights*
+
+### Method 2: ADVDUPE2
+
+*The dupe is using the `loader.lua`*
+
+1. Get the dupe (`sf_musicdesk.txt`)
+2. Put the dupe in the advdupe2folder (`GarrysMod\garrysmod\data\advdupe2`)
+3. Load the dupe in-game and place it
